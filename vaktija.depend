@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1684007503 source:c:\users\user\documents\vaktija\main.cpp
+	<cstdlib>
+	<iomanip>
+	<iostream>
+	<chrono>
+	<ctime>
+	<fstream>
+
+1684179350 source:c:\users\user\documents\vaktija\mainvaktija.cpp
+	<cstdlib>
+	<iomanip>
+	<iostream>
+	<chrono>
+	<ctime>
+	<fstream>
+
