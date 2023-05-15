@@ -4,9 +4,9 @@
 #include <chrono>
 #include <ctime>
 #include <fstream>
-std::string city="Kakanj";
-std::string file1="cities/Kakanj.txt";
-std::string file2="cities/KakanjLeapYear.txt";
+std::string city="Medina";
+std::string file1="cities/Medina.txt";
+std::string file2="cities/MedinaLeapYear.txt";
 
 class Sat
 {
