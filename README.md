@@ -13,5 +13,3 @@
 
 [YouTube presentation](https://youtu.be/z5cghdjXNh8)
 
-video will be published on 8th of June, 2023 inshallah 
-
